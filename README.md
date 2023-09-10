@@ -1,4 +1,4 @@
 # myfirstrepository
-Author: SugamAnugrah
+Author: Sugam Anugrah
 <br>
 Date of Create:08-09-2023
