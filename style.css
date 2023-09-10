@@ -1,21 +1,60 @@
 .app{
+    display: flex;
+    flex-direction: column;
     text-align: center;
     font-family: 'Times New Roman', Times, serif;
+    
 }
 .github{
+    margin-top:4%;
+    margin-left:10% ;
+    border-radius: 7px;
+    width:80vw;
+    border: 3px solid black;
+}
+.git{
+    margin-top:4%;
+    margin-left:10% ;
+    border-radius: 7px;
+    width:80vw;
+    border: 3px solid black;
+}
+.vscode{
+    margin-top:4%;
+    margin-left:10% ;
+    border-radius: 7px;
+    width:80vw;
     border: 3px solid black;
 }
 .heading{
-    font-size: 3em;
+    border-bottom: 2px solid black;
+    font-size: 2.5em;
     font-weight: bolder;
+    text-align: center;
     font-family: 'Times New Roman', Times, serif;
 
 }
+
 .subheading{
     font-size: 2em;
     font-weight: bolder;
 
 }
 .text{
-    font-size: 1.1em;
+    font-size: 1.5em;
+}
+.text-1{
+    font-size: 1.5em;
+    font-weight: bolder;
+}
+.text-2{
+    font-style: oblique;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.5em;
+    color: green;
+}
+.warning{
+    font-size: 1em;
+    color: red;
+    font-family: Arial, Helvetica, sans-serif;
 }
